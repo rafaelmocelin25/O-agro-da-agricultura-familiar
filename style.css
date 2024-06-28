@@ -10,3 +10,6 @@
 .texto-simples-titulo{
     background-color: rgb(98, 18, 18);
 }
+.texto-simples{
+text-align: left;
+}
