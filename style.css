@@ -2,7 +2,6 @@
     background-color: rgb(167, 205, 102);
     color:rgb(0, 0, 0) ;
     display: flex;
-    width: 10%;
 }
 .cabecalho-lista-item{
     display: inline-block;
